@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -65,7 +64,7 @@
     </ul>
 
     <h2>Why I Wanted to Take This Course</h2>
-    <p>I want to continue to learn about all things web development including how to build a web representation for small business owners. </p>
+    <p>I’m eager to continue learning about web development, particularly how to create web solutions for small business owners.</p>
 
     <h2>Favorite Place</h2>
     <img src="https://cdn.outsideonline.com/wp-content/uploads/2024/09/Costa-Rica-waterfall-family-main.jpg?crop=16:9&width=960&enable=upscale&quality=100" alt="Favorite Place Image">
