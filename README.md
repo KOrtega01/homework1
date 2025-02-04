@@ -68,7 +68,7 @@
     <p>I want to continue to learn about all things web development including how to build a web representation for small business owners. </p>
 
     <h2>Favorite Place</h2>
-    <img src="[URL of your image]" alt="Favorite Place Image">
+    <img src="https://cdn.outsideonline.com/wp-content/uploads/2024/09/Costa-Rica-waterfall-family-main.jpg?crop=16:9&width=960&enable=upscale&quality=100" alt="Favorite Place Costa Rica">
 
     <h2>My Favorite Restaurant</h2>
     <p>
